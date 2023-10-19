@@ -4,8 +4,8 @@
   "description": "blogging platform",
   "main": "server.js",
   "scripts": {
-    "start": "node server.js",  // Your start command for running the server
-    "build": "react-scripts build"  // Build command for React app
+    "start": "node server.js",
+    "build": "react-scripts build"
   },
   "repository": {
     "type": "git",
