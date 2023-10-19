@@ -1,0 +1,25 @@
+{
+  "name": "blogging-platform",
+  "version": "1.0.0",
+  "description": "blogging platform",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://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@github.com/Adeoluwa2022/blogging-platform.git"
+  },
+  "keywords": [
+    "blogging",
+    "web-application",
+    "react",
+    "nodejs"
+  ],
+  "author": "Francis Uyaemesi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Adeoluwa2022/blogging-platform/issues"
+  },
+  "homepage": "https://github.com/Adeoluwa2022/blogging-platform#readme"
+}
